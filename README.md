@@ -7,6 +7,7 @@
 [Chess](https://github.com/Luisrosario2604/Chess)
 [Speed-detection](https://github.com/Luisrosario2604/Speed-Detection)
 [Automated-store](https://github.com/Luisrosario2604/Shop-That-Thing)
+[Gomoku](https://github.com/Luisrosario2604/Gomoku)
 - 👯 Some Web projects [Here]()
 
 - 📐 My maths projects [Maths](https://github.com/Luisrosario2604/Maths)
