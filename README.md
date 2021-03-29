@@ -15,7 +15,7 @@
 
 - 📚 I’m currently learning **Artificial intelligence / Big Data**
 
-- 📫 How to reach me **luis.rosario2604@gmail.com** or <a href="https://linkedin.com/in/luis rosario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis rosario" height="15" width="20" /></a>
+- 📫 How to reach me **luis.rosario2604@gmail.com** or <a href="https://www.linkedin.com/in/luis-rosario-b82255156" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis rosario" height="15" width="20" /></a>
 </p>
 
 - Hobbies : Badminton 🏸, Tennis 🎾, Music 🎧, Travel ✈️, Babyfoot ⚽️, Ski 🏂
