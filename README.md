@@ -13,10 +13,10 @@
 - 📐 My maths projects [Maths](https://github.com/Luisrosario2604/Maths)
 
 - 💻 Some C / C++ projects 
--[My hunter](https://github.com/Luisrosario2604/Graphical/tree/master/MyHunter)
--[My rpg](https://github.com/Luisrosario2604/Graphical/tree/master/MyRpg)
--[My runner](https://github.com/Luisrosario2604/Graphical/tree/master/MyRunner)
--[My world](https://github.com/Luisrosario2604/Graphical/tree/master/MyWorld)
+[My hunter](https://github.com/Luisrosario2604/Graphical/tree/master/MyHunter)
+[My rpg](https://github.com/Luisrosario2604/Graphical/tree/master/MyRpg)
+[My runner](https://github.com/Luisrosario2604/Graphical/tree/master/MyRunner)
+[My world](https://github.com/Luisrosario2604/Graphical/tree/master/MyWorld)
 
 - 📚 I’m currently learning **Artificial intelligence / Big Data**
 
