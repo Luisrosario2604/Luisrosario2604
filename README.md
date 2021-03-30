@@ -27,6 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisrosario2604&label=Profile%20views&color=0e75b6&style=flat" alt="luisrosario2604" /> </p>
 
+<p align="left"> <img src="https://img.shields.io/github/stars/Luisrosario2604" alt="luisrosario2604" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
