@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis ROSARIO</h1>
-<h3 align="center">A passionate A.I developer from France </h3>
+<h3 align="center">A passionate A.I developer from France 🇫🇷 / Spain 🇪🇸 </h3>
 <h3 align="center"> Here are a few of my personal and school projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luisrosario2604&label=Profile%20views&color=cca418&style=flat" alt="luisrosario2604" /> <img src="https://img.shields.io/github/stars/Luisrosario2604" alt="luisrosario2604" /> <img src="https://img.shields.io/badge/Maintained-Yes-2b8945.svg" alt="luisrosario2604" /> </p>
