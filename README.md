@@ -43,10 +43,10 @@ Check out my Master's thesis: Object detection model for real soccer scenes, tra
 [3D Vision](https://github.com/Luisrosario2604/3D-Vision)
 
 - 🎮 Some C / C++ projects
-[My rpg](https://github.com/Luisrosario2604/Graphical/MyRpg) -
-[My runner](https://github.com/Luisrosario2604/Graphical/MyRunner) -
-[My hunter](https://github.com/Luisrosario2604/Graphical/MyHunter) -
-[My world](https://github.com/Luisrosario2604/Graphical/MyWorld)
+[My rpg](https://github.com/Luisrosario2604/Graphical/tree/master/MyRpg) -
+[My runner](https://github.com/Luisrosario2604/Graphical/tree/master/MyRunner) -
+[My hunter](https://github.com/Luisrosario2604/Graphical/tree/master/MyHunter) -
+[My world](https://github.com/Luisrosario2604/Graphical/tree/master/MyWorld)
 
 - 💼 I am currently looking for a job in **Computer vision / A.I**
 
